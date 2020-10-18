@@ -122,7 +122,7 @@ def ticket_details(name,t,NO_OF_TICKETS,s,show,m):
 
     print("YOUR ORDER IS :")
     print("***********")
-    print("NAME:",name)
+    print("NAME              :",name)
     print("MOVIE NAME        : ",select_movieName(m))
     print("THEATRE_NAME      :  THEATRE",t)
     print("NUMBER OF TICKETS : ",NO_OF_TICKETS)
