@@ -19,7 +19,8 @@
 ## Block diagram of our Bot:
 
 
-## YouTube link
+## YouTube link:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HKOlvHxlFvA/0.jpg)](https://www.youtube.com/watch?v=HKOlvHxlFvA)
 
 
-## Reference Links
+## Reference Links:
