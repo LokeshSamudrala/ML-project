@@ -17,7 +17,7 @@
   * Humans react to others based on their mood and emotions.
 
 ## Block diagram of our Bot:
-![Logo Finalised](file:///C:/Users/lokesh%20samudrala/Pictures/Bot%20Flowchart.png)
+"https://user-images.githubusercontent.com/69204539/96453769-93ad2a80-1238-11eb-8b88-a696c400e9f2.png"
 
 ## YouTube link:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HKOlvHxlFvA/0.jpg)](https://www.youtube.com/watch?v=HKOlvHxlFvA)
