@@ -1,5 +1,7 @@
 # ML-project
-![Logo](https://user-images.githubusercontent.com/69204539/96457429-631bbf80-123d-11eb-8238-206e44834077.jpeg)
+
+![Logo (2)](https://user-images.githubusercontent.com/69204539/96457733-c0177580-123d-11eb-985f-b5ae16ef7575.jpeg)
+
 ## Our Team Contributers:-
   * 1.Lokesh Samudrala(18pa1a05e0)
   * 2.Lohit Kancherla(19pa1a0565)
