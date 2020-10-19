@@ -24,6 +24,6 @@
 
 
 ## Reference Links:
-[![Pyttsx3 Version](https://img.shields.io/badge/pyttsx3-2.90-green)](https://pypi.org/project/pyttsx3/)
-[![Random Version](https://img.shields.io/badge/random-1.0.1-blue)](https://pypi.org/project/random2/)
-[![DateTime Version](https://img.shields.io/badge/datetime-4.3-red)](https://pypi.org/project/datetime/)
+[![Pyttsx3 Version](https://img.shields.io/badge/pyttsx3-2.90-green)](https://pypi.org/project/pyttsx3/) Converts Text to Speech.
+[![Random Version](https://img.shields.io/badge/random-1.0.1-blue)](https://pypi.org/project/random2/) Selects a random object.
+[![DateTime Version](https://img.shields.io/badge/datetime-4.3-red)](https://pypi.org/project/datetime/) helps in finding Date and Time. 
